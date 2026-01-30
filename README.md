@@ -1,3 +1,6 @@
+### NOTE
+This is imported from https://gitlab.com/opentasmania/awesome-junie-skills, but since it will be deleted on 2026-02-17, I downloaded it and imported here (not all original skills in that repo are included).
+
 <h1 align="center">Awesome Junie Skills</h1>
 
 <p align="center">
